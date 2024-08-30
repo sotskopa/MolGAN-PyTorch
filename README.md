@@ -7,9 +7,10 @@ PyTorch Implemenentation of [MolGAN: An implicit generative model for small mole
 
 ## Installation
 ### Dependencies
-- `torch`
-- `rdkit`
 - `numpy`
+- `rdkit`
+- `torch`
+- `tqdm`
 
 Install the dependencies using:
 ```sh
