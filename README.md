@@ -18,11 +18,11 @@ pip install -r requirements.txt
 ```
 Then, the QM9 dataset can be downloaded using:
 ```sh
-./data/download_dataset.sh
+bash data/download_dataset.sh
 ```
 Finally, preprocess the dataset into the correct format using:
 ```sh
-./data/preprocess_dataset.sh
+bash data/preprocess_dataset.sh
 ```
 
 ## Training
